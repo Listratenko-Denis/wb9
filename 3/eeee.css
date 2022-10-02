@@ -1,0 +1,23 @@
+p {color: rgb(247, 247, 247);font-size: xx-large;}
+
+.text-class {color: rgb(252, 3, 3);}
+
+.lol {color: blueviolet; background-color: aquamarine;}
+
+.pop {color: aqua; background-color: blueviolet; font-size: xx-large;}
+
+.l1 {color: brown; font-size: small;}
+
+.l2 {color: aquamarine; font-size: larger;}
+
+.l3 {color: azure; font-size: x-large;}
+
+ @font-face {
+	 font-family: 'GOGOIA_Deco';
+	src: url('../fonts/gogoia_deco.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/gogoia_deco.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/gogoia_deco.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/gogoia_deco.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/gogoia_deco.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/gogoia_deco.svg#gogoia_deco') format('svg'); /* Chrome < 4, Legacy iOS */
+}

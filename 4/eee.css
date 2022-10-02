@@ -1,0 +1,29 @@
+.ul > li > a:link {color: rgb(140, 30, 11); font-size: 20px;}
+
+.ul > li > a:visited {color: blueviolet; font-size: 20px;}
+
+.ul > li > a:active {color: green;font-size: 20px;}
+
+.lol > li:nth-child(odd) {color: brown; font-size: 20px;}
+ 
+.lol > li:nth-child(even) {color: rgb(12, 12, 204); font-size: 20px;}
+
+.lolol {font-size:x-large ; color: chocolate;}
+
+p {color: crimson; font-size: x-large;}
+
+/* img {float: inherit;} */
+
+.li {color: blue; list-style: none; font-size: x-large;}
+
+p > l1 {color: rgb(11, 220, 77); font-size: x-large;}
+
+p > l2 {color: rgb(255, 0, 0); font-size: x-large;}
+
+p > l3 {color: rgb(185, 14, 207); font-size: x-large;}
+
+body {background-color: aqua;}
+
+
+
+

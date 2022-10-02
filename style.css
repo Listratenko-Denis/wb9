@@ -1,0 +1,13 @@
+p{color: chocolate;}
+
+.text-class {color: crimson;}
+
+#text-id {color: darkgreen;}
+
+p b {color: darkmagenta;}
+
+strong + span {color: aquamarine;
+    font-size: 40px;}
+
+P > I {color: gold;}
+
