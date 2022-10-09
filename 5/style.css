@@ -1,0 +1,11 @@
+table, td {border: 1px solid black;}
+td {width: 20px; height: 20px; n }
+
+
+.l :nth-child(2n) {background-color: black;}
+
+.l2 :nth-child(odd) {background-color: black;}
+
+
+ 
+
