@@ -1,6 +1,11 @@
 li { list-style-type: none;}
 
+p { font-size: larger; text-align: center;
+}
+
 a {text-decoration: none;}
+
+button { align-self: center;}
 
 .ing {border-radius: 50%;}
 
@@ -10,18 +15,18 @@ a {text-decoration: none;}
 
 .lol {border: 1px solid green;  height: 300px; width: 230px; margin: 5px;}
 
-.info {border: 1px solid rgb(34, 40, 146); height: 400px; width: 400px; margin: 5px;}
+.info {border: 1px solid rgb(34, 40, 146); height: 400px; width: 600px; margin: 5px;  }
 
 
 
-.warden { display: flex; justify-content:right ;}
+.ll { height: 70px; width: px; margin: 5px; display: flex; justify-content: space-between; flex-direction: row;}
 
-.lol1 {border: 1px solid green; height: 200px; width: 224px; align-self: ;  margin: 5px;}
+.friends {border: 1px solid rgb(34, 40, 146); height: 100px; width: 100px;}
 
-.info2 {  border: 1px solid rgb(34, 40, 146); height: 250px; width: 331px; align-self: center; margin: 5px; }
+.photo {border: 1px solid rgb(34, 40, 146); height: 100px; width: 100px; float: right; }
 
+.subscr {border: 1px solid rgb(34, 40, 146); height: 100px; width: 100px;}
 
+.otm {border: 1px solid rgb(34, 40, 146); height: 100px; width: 100px;}
 
-
-
-
+.vid {border: 1px solid rgb(34, 40, 146); height: 100px; width: 100px;}
