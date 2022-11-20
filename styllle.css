@@ -1,0 +1,25 @@
+div {border: solid black; }
+
+p { margin: 0; padding: 0;}
+
+button {padding: 16px; margin: 2px;}
+
+.screen{ display: flex; border: solid black; margin: 0px 5px 0px 5px; }
+
+.options {border: solid black;margin: 0px 235px 0px 5px;}
+
+.butt {border:none;}
+
+.l {border:none; margin: 0px 235px 0px 15px;}
+
+.optionss {border:none; display: flex; }
+
+.Mc {margin: 0px 235px 0px 10px;}
+
+tr {text-align: right;}
+
+button {padding: 30px 30px 30px 30px; margin: 2px; font-size: 15px;}
+
+.lo {width: 300px;}
+
+.lol {padding: 10px;}
