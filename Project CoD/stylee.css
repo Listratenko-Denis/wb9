@@ -1,0 +1,108 @@
+body {background-color: black;}
+
+.wrapper { background-color: rgb(255, 255, 255);}
+
+
+
+ .icon {color: rgb(0, 0, 0);}
+
+.nav {color: darkgreen;}
+
+f {color: #969696;}
+
+f1 {color: white;}
+
+
+
+.dropdown-menu {color: darkgreen;}
+
+.dropdown-item {background-color: darkgreen;} 
+
+.wrap {border: solid black; height: 740px;  background-image: url(/wb9/Project\ CoD/cd.pn); background-size: 100%; display: flex; justify-content: center; background-color: black; }
+.nav1 {background-color: black; border: solid black; height: 350px; width: 500px;  margin-top: 160px; }
+
+.nav1-img {width: 500px; height: 150px;}
+
+.text {color: aliceblue; text-align: center;}
+
+.button {display: flex; justify-content: space-around;}
+
+.but {width: 200px;}
+
+.sect {border: solid black; height: 456px; display: flex; justify-content: ;}
+
+.sect-wrap {border: solid black;width: 1269px; height: 450px; background-image: url(/wb9/Project\ CoD/turnir.pn); background-size: 100% 400px;}
+
+.photo {border: solid black; height: 700px; width: 1200px; background-image: url(/wb9/Project\ CoD/cd.png) ; background-size: 100%; background-repeat: no-repeat; margin-top: 10px;}
+
+.sect-text { border: solid black; height: 40px; width: 1269px; text-align: center; background-color: black;}
+
+.sect-img { border: solid black; height: 365px; width: 1269px; background-image: url(/wb9/Project\ CoD/turnir.pn); background-repeat: no-repeat; background-size: 100% }
+
+.sect-text2 {border: solid black; height: 40px; width: 1269px; text-align: center; background-color: black;}
+
+.sect-wrap2 {border: solid black; width: 625px; height: 450px; }
+
+.sect-wrap2-img {border: solid black; width: 625px; height: 362px; }
+
+.sect-wrap2-txt {border: solid black; width: 625px; height: 80px; display: flex; }
+
+.sect-wrap2-logo {border: solid black; width: 150px; height: 80px; background-color: black;  display: flex; justify-content: center;}
+
+.sect-wrap2-img2{width: 100px; height: 40px; margin-top: 10px;}
+
+.sect-wrap2-t {border: solid black; width: 475px; height: 80px; background-color: black; }
+
+
+
+
+
+
+.sect2 {border: solid black;  height: 450px; display: flex;}
+
+/* .sect2-wrap1-img {border: solid black; width: 625px; height: 362px; }
+
+.sect2-wrap2-img {border: solid black; width: 625px; height: 362px; }
+
+.sect2-wrap3-img {border: solid black; width: 625px; height: 362px; } */
+
+.ppg {border: solid black; width: 633px; height: 450px; background-color;}
+
+.ppg1 { border: solid black; width: 625px; height: 362px;}
+
+.ppg2 { border: solid black; width: 625px; height: 85px; display: flex;}
+
+.ppg-img1 {width: 150px; height: 80px; border: solid black; background-color: black; background-image: url(/wb9/Project\ CoD/logo-wzm-white.png); background-repeat: no-repeat; background-size: 100% }
+
+.ppg-img2 {width: 150px; height: 80px; border: solid black; background-color: black; background-image: url(/wb9/Project\ CoD/mw2-white-logo.png); background-repeat: no-repeat; background-size: 100%}
+
+.ppg-img3 {width: 150px; height: 80px; border: solid black; background-color: black; background-image: url(/wb9/Project\ CoD/codm-white.png); background-repeat: no-repeat; background-size: 100%}
+
+.ppg-txt {border: solid black; width: 475px; height: 80px;  background-color: black;}
+
+hr {margin: 0;}
+
+.sect3 {border: solid black;  height: 500px;}
+
+.sect3-txt {border: solid black; background-color: black; height: 80px; color: #a59d95; text-align: center; font-size: x-large;}
+
+.sect3-imgs {border: solid black;  height: 420px; display: flex; justify-content: center;}
+
+.sect3-img1 {border: solid black;  height: 300px; width: 300px; margin-right: 15px;}
+
+.sect3-img2 {border: solid black;  height: 300px; width:300px;}
+
+.sect3-img3 {border: solid black;  height: 300px; width: 300px;margin-left: 15px;}
+
+.sect3-img4 {border: solid black;  height: 300px; width: 300px;margin-left: 15px;}
+
+.sect3-Img1 {border: solid black;height: 220px; background-image: url(/wb9/Project\ CoD/header.jpg); background-repeat: no-repeat; background-size: 100%}
+.sect3-Img2 {border: solid black;height: 220px; background-image: url(/wb9/Project\ CoD/cd-wz2.jpg); background-repeat: no-repeat; background-size: 100%}
+.sect3-Img3 {border: solid black;height: 220px; background-image: url(/wb9/Project\ CoD/Cod-V.png); background-repeat: no-repeat; background-size: 100%}
+.sect3-Img4 {border: solid black;height: 220px; background-image: url(/wb9/Project\ CoD/Codmobile.png); background-repeat: no-repeat; background-size: 100%}
+
+.sect3-tXt1 {border: solid black; height: 80px; color: #a59d95; text-align: center; background-color: black;}
+.sect3-tXt2 {border: solid black; height: 80px; color: #a59d95; text-align: center; background-color: black;}
+.sect3-tXt3 {border: solid black; height: 80px; color: #a59d95; text-align: center; background-color: black;}
+.sect3-tXt4 {border: solid black; height: 80px; color: #a59d95; text-align: center; background-color: black;}
+
