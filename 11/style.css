@@ -1,0 +1,29 @@
+@keyframes move { from { 
+
+ left: 0;
+width: 100px;
+}
+
+25% {
+background-color: aqua;
+
+}
+
+50% { 
+width: 150px;
+}
+ 75%{
+ background-color: red;
+ }
+ 
+to {
+
+ left: 50px;
+ width: 100px;
+}
+}
+
+.animation {position: relative; border: solid black; height: 100px;px ; width: 100px; animation: move 5s linear alternate infinite; animation-play-state: paused;}
+
+
+.animation:hover {animation-play-state: running;}
