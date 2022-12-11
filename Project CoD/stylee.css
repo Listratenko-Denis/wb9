@@ -31,15 +31,15 @@ f1 {color: white;}
 
 .sect {border: solid black; height: 456px; display: flex; justify-content: ;}
 
-.sect-wrap {border: solid black;width: 1200px; height: 450px; background-image: url(/wb9/Project\ CoD/turnir.pn); background-size: 100% 400px;}
+.sect-wrap {border: solid black;width: 1269px; height: 450px; background-image: url(/wb9/Project\ CoD/turnir.pn); background-size: 100% 400px;}
 
 .photo {border: solid black; height: 700px; width: 1200px; background-image: url(/wb9/Project\ CoD/cd.png) ; background-size: 100%; background-repeat: no-repeat; margin-top: 10px;}
 
-.sect-text { border: solid black; height: 40px; width: 1200px; text-align: center; background-color: black;}
+.sect-text { border: solid black; height: 40px; width: 1269px; text-align: center; background-color: black;}
 
-.sect-img { border: solid black; height: 365px; width: 1200px; background-image: url(/wb9/Project\ CoD/turnir.pn); background-repeat: no-repeat; background-size: 100% }
+.sect-img { border: solid black; height: 365px; width: 1269px; background-image: url(/wb9/Project\ CoD/turnir.pn); background-repeat: no-repeat; background-size: 100% }
 
-.sect-text2 {border: solid black; height: 40px; width: 1200px; text-align: center; background-color: black;}
+.sect-text2 {border: solid black; height: 40px; width: 1269px; text-align: center; background-color: black;}
 
 .sect-wrap2 {border: solid black; width: 625px; height: 450px; }
 
@@ -58,7 +58,7 @@ f1 {color: white;}
 
 
 
-.sect2 {border: solid black;  height: 475px; display: flex;}
+.sect2 {border: solid black;  height: 450px; display: flex;}
 
 /* .sect2-wrap1-img {border: solid black; width: 625px; height: 362px; }
 
@@ -66,14 +66,14 @@ f1 {color: white;}
 
 .sect2-wrap3-img {border: solid black; width: 625px; height: 362px; } */
 
-.ppg {border: solid black; width: 633px; height: 80px;}
+.ppg {border: solid black; width: 633px; height: 450px; background-color;}
 
+.ppg1 { border: solid black; width: 625px; height: 362px;}
 
+.ppg2 { border: solid black; width: 625px; height: 85px; display: flex;}
 
+.ppg-img {width: 150px; height: 80px; border: solid black;}
 
-
-
-
-
+.ppg-txt {border: solid black; width: 475px; height: 80px; }
 
 
