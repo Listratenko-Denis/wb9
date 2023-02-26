@@ -119,3 +119,30 @@
 // }
 
 // non (7,113,59)
+
+
+function nom(s) {
+
+let counter = 0
+const arr = [' ',' ,','.','!']
+
+ for (let i = 0; i < s.length; i++) {
+ if (s[i] === s[i].toUpperCase() && !arr.includes(s[i]) ) {counter++}
+  
+ }
+  console.log(counter);
+  
+ 
+ 
+ 
+}
+nom ('RrRrRrR')
+
+
+
+
+
+
+
+
+
