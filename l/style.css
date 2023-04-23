@@ -1,0 +1,163 @@
+#icon {width:50px; height: 50px; }
+#topnav {
+     background-color: #fca902;
+     overflow: hidden;
+     display: block;
+     display: flex;
+     
+ }
+ 
+ 
+ #topnav a {
+     /* float: left; */
+     color: #f2f2f2;
+     text-align: center;
+     padding: 14px 16px;
+     text-decoration: none;
+     font-size: 17px;
+     display: block;
+ }
+ 
+ 
+ #topnav a:hover {
+     background-color: #ddd;
+     color: black;
+     display: block;
+ }
+ 
+ 
+ #topnav a.active {
+     background-color: #e33939;
+     color: white;
+     display: block;
+ }
+
+#Privetstvie {
+text-align: center;
+font-size: x-large;
+
+
+}
+
+#category {
+border: 1px solid black;
+width:; height: 600px;
+display: block;
+display: flex;
+justify-content: center;
+
+}
+
+
+#mashini {border: 1px solid black;
+
+width:500px;
+height: 600px;
+margin-right: 20px;
+text-align: center;
+}
+
+
+#ruchnoe {border: 1px solid black; 
+height: 600px;
+width: 500px;
+margin-left: 20px;
+text-align: center;
+}
+
+
+#img1 {
+     width:px; height: 500px;
+
+}
+
+
+#img2 {
+     width:px; height: 500px;
+}
+
+
+#l {
+font-size: x-large;
+text-align: center;
+}
+
+
+
+
+/* stroitelnie mashini */
+#content {
+    border: 1px solid black;
+    display: flex;
+    justify-content:center ;
+}
+
+#c1 {
+margin-left:20px ;
+
+}
+
+
+
+
+#pogryzchik {
+    border: 1px solid black;
+    width:200px; height: 200px;
+    margin-top:20px; 
+}
+
+
+#kran {
+    border: 1px solid black;
+    width:200px; height: 200px;
+    margin-top:20px; 
+}
+
+
+#avtogreider {
+    border: 1px solid black;
+    width:200px; height: 200px;
+    margin-top:20px; 
+}
+
+
+#screper {
+    border: 1px solid black;
+    width:200px; height: 200px;
+    margin-top:20px; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#topfoot {
+height: 50px;
+width: 50px;
+background-color: #fca902;
+}
+
