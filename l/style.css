@@ -1,0 +1,217 @@
+body {background-color: #ddd;}
+#icon {width:50px; height: 50px; }
+#topnav {
+     background-color: #fca902;
+     overflow: hidden;
+     display: block;
+     display: flex;
+     
+ }
+ 
+ 
+ #topnav a {
+     /* float: left; */
+     color: #f2f2f2;
+     text-align: center;
+     padding: 14px 16px;
+     text-decoration: none;
+     font-size: 17px;
+     display: block;
+ }
+ 
+ 
+ #topnav a:hover {
+     background-color: #ddd;
+     color: black;
+     display: block;
+ }
+ 
+ 
+ #topnav a.active {
+     background-color: #e33939;
+     color: white;
+     display: block;
+ }
+
+#Privetstvie {
+text-align: center;
+font-size: x-large;
+
+
+}
+
+#category {
+background-color: #fca902;
+border: 1px solid black;
+width:; height: 650px;
+display: block;
+display: flex;
+justify-content: center;
+
+}
+
+
+#mashini {
+border-color: black;
+border-radius: 20px ;
+background-image: url(./content/spectexnika1.jpg); background-repeat: no-repeat; background-size: contain;
+width: 600px;
+height: 600px;
+margin-right: 20px;
+margin-top:25px ;
+display: flex;
+justify-content: center;
+
+
+}
+
+
+#ruchnoe {border-radius: 20px ; 
+    background-image: url(./content/stroitoborud2.jpg); background-repeat: no-repeat; background-size: contain;
+height: 600px;
+width: 600px;
+margin-left: 20px;
+margin-top:25px ;
+display: flex;
+justify-content: center;
+text-align: center;
+}
+
+#bgcolor {
+   border-radius: 10px;
+   background-color: #fca902;
+    width:250px; height: 50px;
+    margin-top: 500px; 
+    text-align: center;
+    font-size:x-large ;
+}
+
+
+
+
+
+#l {
+    margin-top: 100px;
+
+}
+
+
+
+
+/* stroitelnie mashini */
+#content {
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+}
+
+#c1 {
+margin-left:40px ;
+
+
+}
+
+
+
+
+#pogryzchik {
+
+    border: 1px solid black;
+    width:900px; height: 200px;
+    margin-top:20px; 
+}
+#pogr {
+    height: 150px;
+    width: 250px;
+    margin-top: 25px;
+    margin-left: 10px; 
+}
+
+
+
+
+
+#buldozer {
+    border: 1px solid black;
+    width:900px; height: 200px;
+    margin-top:20px; 
+}
+#buld {
+    height: 150px;
+    width: 250px;
+    margin-top: 25px;
+    margin-left: 25px; 
+}
+
+
+
+
+
+
+
+
+
+#avtogreider {
+    border: 1px solid black;
+    width:900px; height: 200px;
+    margin-top:25px; 
+}
+#avtogr {
+    height: 150px;
+    width: 250px;
+    margin-top: 25px;
+    margin-left: 25px; 
+}
+
+
+
+
+
+
+
+#screper {
+    border: 1px solid black;
+    width:900px; height: 200px;
+    margin-top:20px; 
+}
+#screp {
+    height: 150px;
+    width: 250px;
+    margin-top: 25px;
+    margin-left: 25px; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#topfoot {
+height: 50px;
+width: 50px;
+background-color: #fca902;
+}
+
